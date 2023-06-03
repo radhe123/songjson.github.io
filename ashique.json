@@ -1,6 +1,6 @@
-      {
-        "tempo": "60",
-            "notes": [{
+{
+    "tempo": "60",
+    "notes": [{
             "note": "c4#",
             "Sur": "Sa",
             "duration": 3.0
