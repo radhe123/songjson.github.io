@@ -1,0 +1,888 @@
+ {
+        "tempo":"60",
+         "notes": [{
+                   "note" :"D5",
+                   "Sur": "Sa",
+                   "duration": 3.0
+                },{
+                   "note" :"D5",
+                   "Sur": "Re",
+                   "duration": 3.0
+                },{
+                  "note" :"A5",
+                  "Sur": "Ga",
+                  "duration": 3.0
+                },{
+                  "note" :"A4",
+                  "Sur": "Pa",
+                  "duration": 3.5
+                },{
+                  "note" :"G5", 
+                  "Sur": "Dha",
+                  "duration": 3.5
+                },{
+                  "note" :"A4", 
+                  "Sur": "SA",
+                  "duration": 3.5
+                },{
+                  "note" :"F5",
+                  "Sur": "SA",
+                  "duration": 3.5
+                },{
+                  "note" :"D5",
+                  "Sur": "Dha",
+                  "duration": 1.5
+                },{
+                  "note" :"A#4",
+                  "Sur": "Pa",
+                  "duration": 1.5
+                },{
+                  "note" :"E5",
+                  "Sur": "Ga",
+                  "duration": 3.0
+                },{
+                  "note" :"A#4",
+                  "Sur": "Re",
+                  "duration": 3.0
+                },{
+                  "note" :"E5", 
+                  "Sur": "Sa",
+                  "duration": 3.0
+                },{
+                  "note" :"A#4",
+                  "Sur": "Pa",
+                  "duration": 3.0
+                },{
+                  "note" :"E5", 
+                  "Sur": "Ma",
+                  "duration": 3.0
+                },{
+                  "note" :"A#4", 
+                  "Sur": "Sa",
+                  "duration": 3.0
+                },{
+                  "note" :"E5",
+                  "Sur": "Re",
+                  "duration": 3.0
+                },{
+                  "note" :"A#4",
+                  "Sur": "Ga",
+                  "duration": 3.0
+                },{
+                  "note":"D5", 
+                  "Sur": "Pa",
+                  "duration": 3.0
+                },{
+                  "note":"D5",
+                  "Sur": "Dha",
+                  "duration": 3.0
+                },{
+                  "note":"A5",
+                  "Sur": "SA",
+                  "duration": 3.0
+                },{
+                  "note":"A4", 
+                  "Sur": "SA",
+                  "duration": 3.0
+                },{
+                  "note":"G5", 
+                  "Sur": "Dha",
+                  "duration": 3.0
+                },{
+                  "note":"A4", 
+                  "Sur": "Sa",
+                  "duration": 3.0
+    },{
+        "note":"F5",
+          "Sur": "Re",
+          "duration": 3.0
+    },{
+        "note":"D5", 
+           "Sur": "Ga",
+          "duration": 1.5
+    },{
+        "note":"A#4",
+          "Sur": "Pa",
+          "duration": 1.5
+    },{
+        "note":"E5", 
+          "Sur": "Dha",
+          "duration": 3.0
+    },{
+        "note":"A#4",
+           "Sur": "SA",
+          "duration": 3.0
+    },{
+        "note":"E5",
+           "Sur": "SA",
+          "duration": 3.0
+    },{
+        "note":"A#4",
+            "Sur": "Sa",
+          "duration": 3.0
+    },{
+        "note":"E5",
+          "Sur": "Re",
+          "duration": 3.0
+    },{
+        "note" :"A#4",
+           "Sur": "Ga",
+          "duration": 3.0
+    },{
+        "note":"E5",
+          "Sur": "Pa",
+          "duration": 3.0
+    },{
+        "note":"A#4",
+          "Sur": "Dha",
+          "duration": 3.0
+    },{
+        "note":"D5",
+           "Sur": "SA",
+          "duration": 3.0
+    },{
+        "note":"D5",
+           "Sur": "SA",
+          "duration": 3.0
+    },{
+        "note":"A5",
+          "Sur": "Dha",
+          "duration": 3.0
+    },{
+        "note":"A4",
+           "Sur": "Pa",
+          "duration": 3.0
+    },{
+        "note":"G5",
+          "Sur": "Re",
+          "duration": 3.0
+    },{
+        "note":"A4",
+            "Sur": "Sa",
+          "duration": 3.0
+    },{
+        "note":"F5",
+          "Sur": "Re",
+          "duration": 3.0
+    },{
+        "note":"D5",
+           "Sur": "Ga",
+          "duration": 1.5
+    },{
+        "note":"A#4",
+          "Sur": "Pa",
+          "duration": 1.5
+    },{
+        "note":"E5",
+          "Sur": "Dha",
+          "duration": 3.0
+    },{
+        "note":"A#4",
+           "Sur": "SA",
+          "duration": 3.0
+    },{
+        "note":"E5",
+          "Sur": "Dha",
+          "duration": 3.0
+    },{
+        "note":"A#4",
+            "Sur": "Sa",
+          "duration": 3.0
+    },{
+        "note":"E5",
+          "Sur": "Re",
+          "duration": 3.0
+    },{
+        "note":"A#4",
+          "Sur": "Pa",
+          "duration": 3.0
+    },{
+        "note":"E5",
+          "Sur": "Dha",
+          "duration": 3.0
+    },{
+        "note":"A#4",
+           "Sur": "SA",
+          "duration": 3.0
+    },{
+        "note":"D5",
+           "Sur": "SA",
+          "duration": 3.0
+    },{
+        "note":"D5",
+          "Sur": "Dha",
+          "duration": 3.0
+    },{
+        "note":"A5",
+           "Sur": "Pa",
+          "duration": 3.0
+    },{
+        "note":"A4",
+          "Sur": "Ga",
+          "duration": 3.0
+    },{
+        "note":"G5",
+          "Sur": "Re",
+          "duration": 3.0
+    },{
+        "note":"A4",
+            "Sur": "Sa",
+          "duration": 3.0
+    },{
+        "note":"F5",
+           "Sur": "Ra",
+          "duration": 3.0
+    },{
+        "note":"D5",
+           "Sur": "Ga",
+          "duration": 1.5
+    },{
+        "note":"A#4",
+            "Sur": "Sa",
+          "duration": 1.5
+    },{
+        "note":"E5", 
+          "Sur": "Re",
+          "duration": 3.0
+    },{
+        "note":"A#4", 
+           "Sur": "Ga",
+          "duration": 3.0
+    },{
+        "note":"E5",
+          "Sur": "Pa",
+          "duration": 3.0
+    },{
+        "note":"A#4",
+          "Sur": "Dha",
+          "duration": 3.0
+    },{
+        "note":"E5",
+           "Sur": "SA",
+          "duration": 3.0
+    },{
+        "note":"A#4",
+           "Sur": "SA",
+          "duration": 3.0
+    },{
+        "note":"E5", 
+            "Sur": "Sa",
+          "duration": 3.0
+    },{
+        "note":"A#4", 
+           "Sur": "Ra",
+          "duration": 3.0
+    },{
+        "note":"A4", 
+           "Sur": "Ga",
+          "duration": 9.0
+    },{
+        "note":"A#4",
+          "Sur": "Pa",
+          "duration": 3.0
+    },{
+        "note":"A4",
+          "Sur": "Dha",
+          "duration": 9.0
+    },{
+        "note":"A#4",
+           "Sur": "SA",
+          "duration": 3.0
+    },{
+        "note":"A4",
+          "Sur": "Dha",
+          "duration": 3.0
+    },{
+        "note":"A#4",
+           "Sur": "Pa",
+          "duration": 3.0
+    },{
+        "note":"A4",
+          "Sur": "Ga",
+          "duration": 9.0
+    },{
+        "note":"A#4",
+          "Sur": "Re",
+          "duration": 3.0
+    },{
+        "note":"A4",
+            "Sur": "Sa",
+          "duration": 9.0
+    },{
+        "note":"G4",
+          "Sur": "Re",
+          "duration": 3.0
+    },{
+        "note":"G4",
+           "Sur": "Ga",
+          "duration": 9.0
+    },{
+        "note":"A4", 
+          "Sur": "Pa",
+          "duration": 12.0
+    },{
+        "note":"A4",
+          "Sur": "Dha",
+          "duration": 3.0
+    },{
+        "note":"G4",
+           "Sur": "SA",
+          "duration": 9.0
+    },{
+        "note":"A4",
+           "Sur": "SA",
+          "duration": 3.0
+    },{
+        "note":"G4",
+          "Sur": "Dha",
+          "duration": 9.0
+    },{
+        "note":"F4", 
+           "Sur": "Pa",
+          "duration": 3.0
+    },{
+        "note":"F4", 
+          "Sur": "Ga",
+          "duration": 9.0
+    },{
+        "note":"F4",
+          "Sur": "Re",
+          "duration": 15.0
+    },{
+        "note":"E4",
+          "duration": 9.0
+    },{
+        "note":"E4",
+            "Sur": "Sa",
+          "duration": 3.0
+    },{
+        "note":"A#4",
+          "Sur": "Re",
+          "duration": 9.0
+    },{
+        "note":"A#4", 
+           "Sur": "Ga",
+          "duration": 3.0
+    },{
+        "note":"A#4",
+          "Sur": "Pa",
+          "duration": 9.0
+    },{
+        "note":"A4",
+          "Sur": "Dha",
+          "duration": 15.0
+    },{
+        "note":"A4",
+           "Sur": "SA",
+          "duration": 9.0
+    },{
+        "note":"A#4",
+           "Sur": "SA",
+          "duration": 3.0
+    },{
+        "note":"A4",
+          "Sur": "Dha",
+          "duration": 9.0
+    },{
+        "note":"A#4",
+           "Sur": "Pa",
+          "duration": 3.0
+    },{
+        "note":"A4",
+          "Sur": "Ga",
+          "duration": 3.0
+    },{
+        "note":"A#4", 
+          "Sur": "Re",
+          "duration": 3.0
+    },{
+        "note":"A4",
+          "Sur": "Pa",
+          "duration": 9.0
+    },{
+        "note":"A#4",
+            "Sur": "Sa",
+          "duration": 3.0
+    },{
+        "note":"A4",
+          "Sur": "Re",
+          "duration": 9.0
+    },{
+        "note":"G4",
+           "Sur": "Ga",
+          "duration": 3.0
+    },{
+        "note":"G4",
+          "Sur": "Pa",
+          "duration": 9.0
+    },{
+        "note":"A4",
+          "Sur": "Dha",
+          "duration": 12.0
+    },{
+        "note":"A4",
+            "Sur": "Sa",
+          "duration": 3.0
+    },{
+        "note":"G4",
+          "Sur": "Re",
+          "duration": 9.0
+    },{
+        "note":"A4",
+           "Sur": "Ga",
+          "duration": 3.0
+    },{
+        "note":"G4",
+          "Sur": "Pa",
+          "duration": 9.0
+    },{
+        "note":"F4",
+          "Sur": "Dha",
+          "duration": 3.0
+    },{
+        "note":"F4",
+           "Sur": "SA",
+          "duration": 9.0
+    },{
+        "note":"F4",
+           "Sur": "SA",
+          "duration": 15.0
+    },{
+        "note":"E4",
+          "Sur": "Dha",
+          "duration": 12.0
+    },{
+        "note":"E4",
+           "Sur": "Pa",
+          "duration": 3.0
+    },{
+        "note":"A#4",
+          "Sur": "Ga",
+          "duration": 6.0
+    },{
+        "note":"A#4",
+          "Sur": "Re",
+          "duration": 3.0
+    },{
+        "note":"A#4",
+            "Sur": "Sa",
+          "duration": 9.0
+    },{
+        "note":"A4",
+          "Sur": "Re",
+          "duration": 12.0
+    },{
+        "note":"E5",
+           "Sur": "Ga",
+          "duration": 3.0
+    },{
+        "note":"F5",
+          "Sur": "Pa",
+          "duration": 15.0
+    },{
+        "note":"F5",
+          "Sur": "Dha",
+          "duration": 6.0
+    },{
+        "note":"G5",
+           "Sur": "SA",
+          "duration": 3.0
+    },{
+        "note":"E5",
+          "Sur": "Dha",
+          "duration": 6.0
+    },{
+        "note":"D5",
+            "Sur": "Sa",
+          "duration": 6.0
+    },{
+        "note":"C5",
+          "Sur": "Re",
+          "duration": 6.0
+    },{
+        "note":"A#4",
+           "Sur": "Ga",
+          "duration": 6.0
+    },{
+        "note":"A#4",
+          "Sur": "Pa",
+          "duration": 12.0
+    },{
+        "note":"D5",
+          "Sur": "Dha",
+          "duration": 9.0
+    },{
+        "note":"A#4",
+           "Sur": "SA",
+          "duration": 3.0
+    },{
+        "note":"A4",
+           "Sur": "SA",
+          "duration": 3.0
+    },{
+        "note":"E5",
+          "Sur": "Dha",
+          "duration": 3.0
+    },{
+        "note":"F5",
+           "Sur": "Pa",
+          "duration": 12.0
+    },{
+        "note":"F5",
+          "Sur": "Ga",
+          "duration": 9.0
+    },{
+        "note":"G5",
+            "Sur": "Sa",
+          "duration": 3.0
+    },{
+        "note":"E5",
+          "Sur": "Re",
+          "duration": 6.0
+    },{
+        "note":"D5",
+           "Sur": "Ga",
+          "duration": 6.0
+    },{
+        "note":"C5", 
+          "Sur": "Pa",
+          "duration": 6.0
+    },{
+        "note":"A#4",
+          "Sur": "Dha",
+          "duration": 6.0
+    },{
+        "note":"A#4",
+            "Sur": "Sa",
+          "duration": 12.0
+    },{
+        "note":"D5", 
+          "Sur": "Re",
+          "duration": 9.0
+    },{
+        "note":"A#4",
+           "Sur": "Ga",
+          "duration": 3.0
+    },{
+        "note":"A4",
+          "Sur": "Pa",
+          "duration": 12.0
+    },{
+        "note":"G4",
+          "Sur": "Dha",
+          "duration": 9.0
+    },{
+        "note":"A#4",
+           "Sur": "SA",
+          "duration": 3.0
+    },{
+        "note":"A4",
+            "Sur": "Sa",
+          "duration": 9.0
+    },{
+        "note":"A#4", 
+          "Sur": "Re",
+          "duration": 3.0
+    },{
+        "note":"A4",
+           "Sur": "Ga",
+          "duration" : 9.0
+    },{
+        "note":"A#4",
+          "Sur": "Pa",
+          "duration": 3.0
+    },{
+        "note":"A4",
+          "Sur": "Dha",
+          "duration": 3.0
+    },{
+        "note":"A#4",
+           "Sur": "SA",
+          "duration": 3.0
+    },{
+        "note":"A4",
+           "Sur": "SA",
+          "duration": 9.0
+    },{
+        "note":"A#4",
+          "Sur": "Dha",
+          "duration": 3.0
+    },{
+        "note":"A4",
+           "Sur": "Pa",
+          "duration": 9.0
+    },{
+        "note":"A#4",
+            "Sur": "Sa",
+          "duration": 3.0
+    },{
+        "note":"G4",
+          "Sur": "Re",
+          "duration": 9.0
+    },{
+        "note":"A4",
+           "Sur": "Ga",
+          "duration": 12.0
+    },{
+        "note":"A4",
+          "Sur": "Pa",
+          "duration": 3.0
+    },{
+        "note":"G4",
+          "Sur": "Dha",
+          "duration": 9.0
+    },{
+        "note":"A4",
+           "Sur": "SA",
+          "duration": 3.0
+    },{
+        "note":"G4",
+          "Sur": "Dha",
+          "duration": 9.0
+    },{
+        "note":"F4",
+            "Sur": "Sa",
+          "duration": 3.0
+    },{
+        "note":"F4",
+          "Sur": "Re",
+          "duration": 9.0
+    },{
+        "note":"F4", 
+           "Sur": "Ga",
+          "duration": 15.0
+    },{
+        "note":"E4",
+          "Sur": "Pa",
+          "duration": 12.0
+    },{
+        "note":"E4",
+          "Sur": "Dha",
+          "duration": 3.0
+    },{
+        "note":"A#4",
+           "Sur": "SA",
+          "duration": 6.0
+    },{
+        "note":"A#4", 
+           "Sur": "SA",
+          "duration": 3.0
+    },{
+        "note":"A#4",
+          "Sur": "Dha",
+          "duration": 9.0
+    },{
+        "note":"A4", 
+            "Sur": "Sa",
+          "duration": 9.0
+    },{
+        "note":"E5",
+          "Sur": "Re",
+          "duration": 1.5
+    },{
+        "note":"F5",
+           "Sur": "Ga",
+          "duration": 1.5
+    },{
+        "note":"G5", 
+          "Sur": "Pa",
+          "duration": 1.5
+    },{
+        "note":"A#5",
+            "Sur": "Sa",
+          "duration": 1.5
+    },{
+        "note":"A5", 
+          "Sur": "Re",
+          "duration": 9.0
+    },{
+        "note":"A#5", 
+           "Sur": "Ga",
+          "duration": 3.0
+    },{
+        "note":"A5",
+            "Sur": "Sa",
+          "duration": 9.0
+    },{
+        "note":"A#5",
+          "Sur": "Re",
+          "duration": 3.0
+    },{
+        "note":"A5",
+           "Sur": "Ga",
+          "duration": 24.0
+    },{
+        "note":"A5", 
+          "Sur": "Pa",
+          "duration": 9.0
+    },{
+        "note":"A#5",
+          "Sur": "Dha",
+          "duration": 3.0
+    },{
+        "note":"A5",
+           "Sur": "SA",
+          "duration": 9.0
+    },{
+        "note":"G5", 
+            "Sur": "Sa",
+          "duration": 3.0
+    },{
+        "note":"G5", 
+          "Sur": "Re",
+          "duration": 9.0
+    },{
+        "note":"A5",
+           "Sur": "Ga",
+          "duration": 12.0
+    },{
+        "note":"A5",
+          "Sur": "Pa",
+          "duration": 3.0
+    },{
+        "note":"G5", 
+          "Sur": "Dha",
+          "duration" : 9.0
+    },{
+        "note":"A5",
+           "Sur": "SA",
+          "duration": 3.0
+    },{
+        "note":"G5",
+           "Sur": "SA",
+          "duration": 9.0
+    },{
+        "note":"F5",
+          "Sur": "Dha",
+          "duration": 3.0
+    },{
+        "note":"F5",
+           "Sur": "Pa",
+          "duration": 12.0
+    },{
+        "note":"F5", 
+            "Sur": "Sa",
+          "duration": 12.0
+    },{
+        "note":"E5",
+          "Sur": "Re",
+          "duration": 12.0
+    },{
+        "note":"E5",
+           "Sur": "Ga",
+          "duration": 3.0
+    },{
+        "note":"A#5",
+          "Sur": "Pa",
+          "duration": 6.0
+    },{
+        "note":"A#5",
+          "Sur": "Dha",
+          "duration": 3.0
+    },{
+        "note":"A#5",
+           "Sur": "SA",
+          "duration": 9.0
+    },{
+        "note":"A5",
+           "Sur": "SA",
+          "duration": 3.0
+    },{
+        "note":"A5",
+          "Sur": "Dha",
+          "duration": 6.0
+    },{
+        "note":"G5",
+          "Sur": "Pa",
+          "duration": 6.0
+    },{
+        "note":"F5",
+            "Sur": "Sa",
+          "duration": 3.0
+    },{
+        "note":"E5",
+          "Sur": "Re",
+          "duration": 6.0
+    },{
+        "note":"D5", 
+           "Sur": "Ga",
+          "duration": 3.0
+    },{
+        "note":"F5",
+          "Sur": "Pa",
+          "duration": 24.0
+    },{
+        "note":"A4",
+          "Sur": "Dha",
+          "duration": 6.0
+    },{
+        "note":"G5", 
+           "Sur": "SA",
+          "duration": 6.0
+    },{
+        "note":"F5",
+           "Sur": "SA",
+          "duration": 3.0
+    },{
+        "note":"E5",
+          "Sur": "Dha",
+          "duration": 6.0
+    },{
+        "note":"D5",
+           "Sur": "Pa",
+          "duration": 3.0
+    },{
+        "note":"F5",
+            "Sur": "Sa",
+          "duration": 24.0
+    },{
+        "note":"A4", 
+          "Sur": "Re",
+          "duration": 6.0
+    },{
+        "note":"G5", 
+           "Sur": "Ga",
+          "duration": 6.0
+    },{
+        "note":"F5",
+          "Sur": "Pa",
+          "duration": 3.0
+    },{
+        "note":"E5",
+          "Sur": "Dha",
+          "duration": 6.0
+    },{
+        "note":"D5",
+           "Sur": "SA",
+          "duration": 3.0
+    },{
+        "note":"E5",
+           "Sur": "SA",
+          "duration": 24.0
+    },{
+        "note":"A4",
+          "Sur": "Dha",
+          "duration": 6.0
+    },{
+        "note":"G5",
+            "Sur": "Sa",
+          "duration": 6.0
+    },{
+        "note":"F5", 
+          "Sur": "Re",
+          "duration": 3.0
+    },{
+        "note":"E5", 
+           "Sur": "Ga",
+          "duration": 6.0
+    },{
+        "note":"D5",
+          "Sur": "Pa",
+          "duration": 3.0
+    },{
+        "note":"E5",
+        "Sur": "Dha",
+        "duration": 24.0
+   }
+    ]
+}
