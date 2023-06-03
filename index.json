@@ -152,5 +152,15 @@
         "zoom": "0.96",
         "scroll": "0.61",
         "video": ""
+    }, {
+        "id": "7",
+        "isPublished": "false",
+        "title": "Raga Durga",
+        "desc": "Indian Classical",
+        "url": "https://sigmacode1.github.io/r/harmonium-lite/lessons/free/ashique.json",
+        "isFree": "true",
+        "zoom": "1",
+        "scroll": "0.57",
+        "video": ""
     }
 ]
